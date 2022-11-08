@@ -1,4 +1,4 @@
-asset_description,asset_abbreviation,dbo_entity_type,ifc_class,ifc_type
+asset_description,asset_abbreviation,dbo_entity_type,ifc_class,ifc_type,Uniclass2015.Ss.Number,Uniclass2015.Ss.Description,Uniclass2015.Pr.Number,Uniclass2015.Pr.Description
 access control - biometric reader,BIOR,,IfcCommunicationsAppliance,SCANNER
 access control - RFID controller,RFIDC,,IfcController,NOTDEFINED
 access control - RFID reader,RFIDR,,IfcCommunicationsAppliance,SCANNER
